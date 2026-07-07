@@ -102,15 +102,15 @@ Como resultado del análisis se proponen las siguientes acciones:
 ---
 ### Tasa de llamadas perdidas
 
-![Tasa de llamadas perdidas](imagenes/Llamadas%20perdidas.png)
+![Tasa de llamadas perdidas](imagenes/Llamadas perdidas.png)
 
 ### Llamadas salientes
 
-![Llamadas salientes](imagenes/Llamadas%20salientes.png)
+![Llamadas salientes](imagenes/Llamadas salientes.png)
 
 ### Tiempo promedio de espera
 
-![Tiempo promedio de espera](imagenes/Tiempo%20de%20espera.png)
+![Tiempo promedio de espera](imagenes/Tiempo de espera.png)
 
 ## Estructura del repositorio
 📂 imágenes

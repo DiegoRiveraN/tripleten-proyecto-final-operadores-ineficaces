@@ -116,6 +116,4 @@ README.md
 **Diego Rivera Navarro**
 
 Business Analyst | Operations Analyst | Data Analyst
-
-LinkedIn:
-(https://www.linkedin.com/in/diego-rivera-navarro-350300121)
+LinkedIn: [Diego Rivera Navarro](https://www.linkedin.com/in/diego-rivera-navarro-350300121)

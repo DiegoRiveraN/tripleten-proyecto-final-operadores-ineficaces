@@ -101,19 +101,12 @@ Como resultado del análisis se proponen las siguientes acciones:
 
 ---
 
-## Dashboard
-
-### Tiempo promedio de espera
-
-![Tiempo de espera](imagenes/Tiempo%20de%20espera.png)
-
 ## Estructura del repositorio
+📂 imágenes
 
 📂 notebooks
 
 📂 presentación
-
-📂 imágenes
 
 README.md
 

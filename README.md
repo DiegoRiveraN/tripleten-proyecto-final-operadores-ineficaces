@@ -100,18 +100,6 @@ Como resultado del análisis se proponen las siguientes acciones:
 🔗 [Ver Dashboard en Tableau](https://public.tableau.com/app/profile/diego.rivera1654/viz/CallMeMaybe-Anlisisdeoperadores/DesempeodeoperadoresCallMeMaybe)
 
 ---
-### Tasa de llamadas perdidas
-
-![Tasa de llamadas perdidas](imagenes/Llamadas_perdidas.png)
-
-### Llamadas salientes
-
-![Llamadas salientes](imagenes/Llamadas_salientes.png)
-
-### Tiempo promedio de espera
-
-![Tiempo promedio de espera](imagenes/Tiempo_de_espera.png)
-
 ## Estructura del repositorio
 📂 imágenes
 

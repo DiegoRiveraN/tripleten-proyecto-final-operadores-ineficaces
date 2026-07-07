@@ -126,4 +126,4 @@ README.md
 Business Analyst | Operations Analyst | Data Analyst
 
 LinkedIn:
-(GitHub agregará posteriormente el enlace)
+(www.linkedin.com/in/diego-rivera-navarro-350300121)

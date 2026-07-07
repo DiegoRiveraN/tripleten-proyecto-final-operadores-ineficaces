@@ -100,6 +100,17 @@ Como resultado del análisis se proponen las siguientes acciones:
 🔗 [Ver Dashboard en Tableau](https://public.tableau.com/app/profile/diego.rivera1654/viz/CallMeMaybe-Anlisisdeoperadores/DesempeodeoperadoresCallMeMaybe)
 
 ---
+### Tasa de llamadas perdidas
+
+![Tasa de llamadas perdidas](imagenes/Llamadas%20perdidas.png)
+
+### Llamadas salientes
+
+![Llamadas salientes](imagenes/Llamadas%20salientes.png)
+
+### Tiempo promedio de espera
+
+![Tiempo promedio de espera](imagenes/Tiempo%20de%20espera.png)
 
 ## Estructura del repositorio
 📂 imágenes
@@ -111,9 +122,6 @@ Como resultado del análisis se proponen las siguientes acciones:
 README.md
 
 ---
-
-
-
 ## Autor
 
 **Diego Rivera Navarro**

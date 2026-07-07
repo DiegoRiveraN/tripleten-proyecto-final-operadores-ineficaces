@@ -43,20 +43,6 @@ Se utilizaron dos conjuntos de datos:
   - Fechas de contratación.
 
 ---
-
-## Herramientas utilizadas
-
-- Python
-- Pandas
-- NumPy
-- SciPy
-- Matplotlib
-- Plotly
-- Tableau
-- Jupyter Notebook
-
----
-
 ## Metodología
 
 Durante el proyecto se realizaron las siguientes etapas:
@@ -101,17 +87,15 @@ Como resultado del análisis se proponen las siguientes acciones:
 - Python
 - Pandas
 - NumPy
-- SciPy
 - Matplotlib
-- Plotly
+- Seaborn
+- SciPy
 - Tableau
 - Jupyter Notebook
 
 ## Dashboard interactivo
 
-Puedes consultar el dashboard desarrollado en Tableau aquí:
-
-🔗 (https://public.tableau.com/app/profile/diego.rivera1654/viz/CallMeMaybe-Anlisisdeoperadores/DesempeodeoperadoresCallMeMaybe?publish=yes)
+🔗 [Ver Dashboard en Tableau](https://public.tableau.com/app/profile/diego.rivera1654/viz/CallMeMaybe-Anlisisdeoperadores/DesempeodeoperadoresCallMeMaybe)
 
 ---
 

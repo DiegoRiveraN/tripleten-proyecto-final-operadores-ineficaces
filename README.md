@@ -82,6 +82,8 @@ Como resultado del análisis se proponen las siguientes acciones:
 - Optimizar la distribución de carga de trabajo entre operadores.
 
 ---
+
+
 ## Tecnologías
 
 - Python
@@ -99,6 +101,12 @@ Como resultado del análisis se proponen las siguientes acciones:
 
 ---
 
+## Dashboard
+
+### Tiempo promedio de espera
+
+![Tiempo de espera](imagenes/Tiempo%20de%20espera.png)
+
 ## Estructura del repositorio
 
 📂 notebooks
@@ -110,6 +118,8 @@ Como resultado del análisis se proponen las siguientes acciones:
 README.md
 
 ---
+
+
 
 ## Autor
 

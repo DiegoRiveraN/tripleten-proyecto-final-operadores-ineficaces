@@ -1,5 +1,3 @@
-# Identificación-operadores-ineficaces
-Proyecto final del Bootcamp de Análisis de Datos de TripleTen enfocado en la identificación de operadores ineficaces mediante análisis exploratorio de datos, pruebas estadísticas y visualización en Tableau.
 # Identificación de Operadores Ineficaces
 
 ## Descripción
@@ -98,6 +96,16 @@ Como resultado del análisis se proponen las siguientes acciones:
 - Optimizar la distribución de carga de trabajo entre operadores.
 
 ---
+## Tecnologías
+
+- Python
+- Pandas
+- NumPy
+- SciPy
+- Matplotlib
+- Plotly
+- Tableau
+- Jupyter Notebook
 
 ## Dashboard interactivo
 
@@ -126,4 +134,4 @@ README.md
 Business Analyst | Operations Analyst | Data Analyst
 
 LinkedIn:
-(www.linkedin.com/in/diego-rivera-navarro-350300121)
+(https://www.linkedin.com/in/diego-rivera-navarro-350300121)

@@ -112,7 +112,6 @@ Como resultado del análisis se proponen las siguientes acciones:
 
 ![Tiempo promedio de espera](imagenes/Tiempo_de_espera.png)
 
-
 ## Estructura del repositorio
 📂 imágenes
 
